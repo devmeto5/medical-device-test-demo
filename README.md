@@ -1,4 +1,4 @@
-# Medical Device Test Demo
+# Medical Device Test Demo.
 
 A small educational QA project: a simulated temperature controller, automated Python tests, and a LabVIEW integration guide.
 
