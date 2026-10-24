@@ -57,6 +57,6 @@ The workflow runs on pushes, pull requests, and manual dispatch. It executes the
 | `docs/TEST_PLAN.md` | Requirements and traceable scenarios |
 | `docs/LABVIEW.md` | Manual integration and verification steps |
 
-## Limits
+## Limits.
 
 This deliberately small demo omits alarm latching, reset authorization, sensor timing, communication failures, calibration, hardware interlocks, and real device validation. No medical or patient data is used.
